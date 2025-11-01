@@ -2,9 +2,7 @@
 
 This repository heavily focuses on learning Electron framework from beginner to a level that enables the development of scalable desktop applications confidently.
 
-# Curriculum details below
-
-Great! Since you have prior experience, we can move faster and focus on reinforcing concepts rather than explaining basics. Here's how I'd structure the lessons:
+The structure the lessons as detailed below:
 
 ## **Lesson Structure (5-7 Sessions)**
 
